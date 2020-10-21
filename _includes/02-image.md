@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a black cat sticking out its' tongue](https://i.redd.it/upcezjcikbu21.jpg)
