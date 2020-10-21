@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+#Oh hey ho!
+####This is Kirstyn's practice Github Portfoli
