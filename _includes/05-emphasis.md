@@ -1,0 +1,1 @@
+I am interested in *everything* and try out many hobbies for short periods of time, including pottery, tap dancing, and roller derby. **Marching band in Germany** was a particularly interesting experience!
